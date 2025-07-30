@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+title: "VR/AR Gaze vs. Joystick: A Usability Study with Unity"
+authors:
+  - family-names: YourSurname
+    given-names: YourGivenName
+license: MIT
+date-released: 2025-07-30
+version: "0.1.0"
